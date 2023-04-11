@@ -6,6 +6,8 @@ Feature Engineering Tasks:
 
 Impute missing feature values with the most frequent value for categorical features and the average value for continuous numerical features.
 Normalize each feature using (X’ = (X - µ) / σ), where µ represents the mean of feature value and σ represents the standard deviation of feature values.
+
+
 Part A - Perceptron Learning Algorithm:
 Learning Task 1: Build a classifier (Perceptron Model - PM1) using the perceptron algorithm and determine whether the dataset is linearly separable. Build another classifier (PM2) by changing the order of the training examples and outline the differences between PM1 and PM2.
 Learning Task 2: Build a classifier (PM3) using the perceptron algorithm on normalized data and compare it with PM1.
